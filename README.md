@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mchinmayarao
-- 👀 I’m interested in developig softwares
+- 👀 I’m interested in developing softwares
 - 🌱 I’m currently learning ARTIFICIAL INTELIGENCE AND MACHINE LEARNING
 - 💞️ I’m looking to collaborate on APP DEVELOPMENT USING AI
 - 📫 How to reach me @mchinmayarao@gmail.com
