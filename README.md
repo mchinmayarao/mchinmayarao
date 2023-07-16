@@ -19,7 +19,6 @@
 - **Version Control**: Git, GitHub
 - **Software Engineering**: Object-Oriented Programming, Design Patterns
 
-### Projects
 
 ### Projects
 
@@ -36,8 +35,11 @@
 ### Connect with Me
 
 📫 Email: mchinmayarao@gmail.com  
+
 💼 LinkedIn: www.linkedin.com/in/mchinmayarao
+
 📷 Instagram: https://instagram.com/_raochinmaya_
+
 
 Feel free to reach out if you want to collaborate, discuss AI, or just geek out about coding and machine learning! 🤓🚀
 
