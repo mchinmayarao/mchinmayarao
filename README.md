@@ -5,7 +5,7 @@
 
 ### About Me
 
-- 🎓 Pursuing a degree in AI & Machine Learning Engineering
+- 🎓 AI & Machine Learning Engineer
 - 🌱 Constantly exploring the latest developments in the field of AI and ML
 - 💡 Passionate about solving real-world problems using innovative technologies
 - 💻 Experienced in implementing and optimizing machine learning algorithms
